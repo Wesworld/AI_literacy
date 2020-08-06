@@ -1,8 +1,0 @@
-﻿Equal-access, formalize, age-appropriate public school curriculum
-
-
-* What is ML/AL?
-	* Is it fair?
-	* What are my data rights?
-	* What are its limitations?
-	* For social good?
